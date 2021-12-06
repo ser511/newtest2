@@ -1,8 +1,7 @@
-# still trying to figure out to connect to git so Im going to do this again
+# I have finally connected this I hope you see this on git hub
 
-second line lets see if this will work!
-
+This is gonna be pretty cool 
 
 ## Subheader
-doing pretty good so far no tusre why this isnt modifying
+doing pretty good 
 
